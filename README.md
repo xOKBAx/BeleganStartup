@@ -1,15 +1,4 @@
-<style>
-    .icon {
-        background-color: #ebebeb;
-        padding:2px;
-        border-radius:5px;
-        margin: 0 2px;
-        vertical-align:middle;
-        width: 50px;
-    }
-</style>
-
-![Banner Image](https://github.com/BeleganStartup/BeleganStartup/blob/main/images/Banner.png)
+![Banner Image](https://github.com/BeleganStartup/BeleganStartup/blob/main/images/banner.png)
 
 ## Hi there 👋
 [![GitHub Okba](https://img.shields.io/github/followers/BeleganStartup?label=follow&style=social)](https://github.com/BeleganStartup)
@@ -20,38 +9,38 @@
 
 - OS:
 
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/windows8-original.svg" alt="windows" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/apple-original.svg" alt="mac" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/ubuntu-plain.svg" alt="ubuntu" class='icon'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/windows8-original.svg" alt="windows" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/apple-original.svg" alt="mac" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/ubuntu-plain.svg" alt="ubuntu" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
 
 - Programming/Markup lanbguages:
 
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/python-original.svg" alt="python" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/javascript-original.svg" alt="js" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/typescript-original.svg" alt="typescript" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/html5-original.svg" alt="html5" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/css3-original.svg" alt="css3" class='icon'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/python-original.svg" alt="python" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/javascript-original.svg" alt="js" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/typescript-original.svg" alt="typescript" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/html5-original.svg" alt="html5" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/css3-original.svg" alt="css3" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
 
 - Web/Desktop Technologies:
 
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/django-plain.svg" alt="django" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/flask-original.svg" alt="flask" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/react-original.svg" alt="react" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/electron-original.svg" alt="electron" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/tcl-tk-original.svg" alt="tcl-tk" class='icon'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/django-plain.svg" alt="django" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/flask-original.svg" alt="flask" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/react-original.svg" alt="react" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/electron-original.svg" alt="electron" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/tcl-tk-original.svg" alt="tcl-tk" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
 
 - DevOps: 
 
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/docker-original.svg" alt="docker" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/nginx-original.svg" alt="nginx" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/amazonwebservices-original-wordmark.svg" alt="aws" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/gitlab-original.svg" alt="gitlab" class='icon'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/docker-original.svg" alt="docker" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/nginx-original.svg" alt="nginx" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/amazonwebservices-original-wordmark.svg" alt="aws" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/gitlab-original.svg" alt="gitlab" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
 
 - and more:
 
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/git-original.svg" alt="git" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/postgresql-original.svg" alt="postgresql" class='icon'/>
-    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/selenium-original.svg" alt="postgresql" class='icon'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/git-original.svg" alt="git" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/postgresql-original.svg" alt="postgresql" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
+    <img src="https://github.com/BeleganStartup/BeleganStartup/blob/main/images/selenium-original.svg" alt="postgresql" style='padding:2px;margin: 0 2px;vertical-align:middle;width: 50px;'/>
 
 ---
 
